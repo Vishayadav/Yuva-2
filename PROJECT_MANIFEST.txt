@@ -1,0 +1,10 @@
+Project: BlogCraft – Blog Platform REST API
+Task: Week 2 – Backend API Development and Database Integration
+Stack: Node.js 20+, Express 4, SQLite, JWT, bcrypt, Zod, Supertest
+Entrypoint: src/server.js
+Install: npm install
+Configure: copy .env.example to .env and set JWT_SECRET
+Run: npm run dev (or npm start)
+Test: npm test
+Postman: postman/BlogCraft.postman_collection.json
+Important: run tests and capture actual evidence before submission.
